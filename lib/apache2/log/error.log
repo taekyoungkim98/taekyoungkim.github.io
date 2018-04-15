@@ -1,0 +1,17 @@
+[Sun Apr 15 06:49:17.154845 2018] [mpm_prefork:notice] [pid 3119] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Apr 15 06:49:17.154922 2018] [core:notice] [pid 3119] AH00094: Command line: 'apache2'
+[Sun Apr 15 06:49:19.973797 2018] [core:info] [pid 3138] [client 10.240.0.64:42918] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 06:50:39.080347 2018] [mpm_prefork:notice] [pid 3119] AH00169: caught SIGTERM, shutting down
+[Sun Apr 15 06:50:41.099782 2018] [mpm_prefork:notice] [pid 3734] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Apr 15 06:50:41.099842 2018] [core:notice] [pid 3734] AH00094: Command line: 'apache2'
+[Sun Apr 15 07:02:00.923472 2018] [core:info] [pid 3743] [client 10.240.0.64:51662] AH00128: File does not exist: /home/ubuntu/workspace/img/bg-mobile-fallback.jpg, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 07:02:02.236669 2018] [core:info] [pid 3744] [client 10.240.1.191:60454] AH00128: File does not exist: /home/ubuntu/workspace/img/bg-mobile-fallback.jpg, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 07:02:03.552162 2018] [core:info] [pid 3741] [client 10.240.0.64:51686] AH00128: File does not exist: /home/ubuntu/workspace/img/bg-mobile-fallback.jpg, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 07:02:04.129220 2018] [core:info] [pid 3742] [client 10.240.0.64:51694] AH00128: File does not exist: /home/ubuntu/workspace/img/bg-mobile-fallback.jpg, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 07:02:04.702961 2018] [core:info] [pid 3745] [client 10.240.1.191:60482] AH00128: File does not exist: /home/ubuntu/workspace/img/bg-mobile-fallback.jpg, referer: https://kimtaekyoung-taekyoungkim.c9users.io/index.html
+[Sun Apr 15 07:03:05.233777 2018] [mpm_prefork:notice] [pid 3734] AH00169: caught SIGTERM, shutting down
+[Sun Apr 15 07:03:07.208241 2018] [mpm_prefork:notice] [pid 4318] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Apr 15 07:03:07.208309 2018] [core:notice] [pid 4318] AH00094: Command line: 'apache2'
+[Sun Apr 15 12:45:09.481263 2018] [mpm_prefork:notice] [pid 4318] AH00169: caught SIGTERM, shutting down
+[Sun Apr 15 12:45:10.639881 2018] [mpm_prefork:notice] [pid 7006] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Apr 15 12:45:10.639983 2018] [core:notice] [pid 7006] AH00094: Command line: 'apache2'
